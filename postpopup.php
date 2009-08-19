@@ -3,7 +3,7 @@
 Plugin Name: PostPopup
 Plugin URI: http://or.pluseq.com/wp-plugins/postpopup
 Description: Allows inserting popups localted in separate posts. IMORTANT!!! You need to use some <a href="http://jqueryui.com/themeroller/#themeGallery">JQuery UI theme</a>, in order to see the popups. Also see pagepop/config.php for fine plugin tuning.
-Version: 1.0.0.
+Version: 1.0.1.
 Author: Constantin Pogorelov
 Author URI: http://or.pluseq.com/
 

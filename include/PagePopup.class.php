@@ -57,7 +57,7 @@ class PagePopup {
         $this->content[$post->ID]='<div class="popup-content">' .
                                   apply_filters('the_content', $post->post_content) .
                                   '</div>'; 
-        return '#popup" onclick="javascript:return showPopup(\''. $post->ID . '\')';
+        return '#popup" onclick="return showPopup(\''. $post->ID . '\')';
     }
     
     /**
